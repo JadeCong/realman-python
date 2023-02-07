@@ -61,7 +61,7 @@ def run_waypoints(api_lib, socket_handler, wp_path):
             rm_wp.rx = value[3]
             rm_wp.ry = value[4]
             rm_wp.rz = value[5]
-            api_lib.Movel_Cmd(socket_handler, rm_wp, 20, 0, 1)
+            api_lib.Movej_P_Cmd(socket_handler, rm_wp, 20, 0, 1)
             print("Realman arm moved to pose %s: %s" % (key, value))
 
 

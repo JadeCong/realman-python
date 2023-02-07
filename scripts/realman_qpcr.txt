@@ -1,0 +1,5 @@
+{"file":6}
+{"num":1,"name":"MOVEJ_P","Cmd_Type":"MOVEJ_P","speed":80,"Frame":"World","Tool":"Arm_Tip","parent_number":0,"enabled":true}
+{"num":2,"name":"YiYe","speed":80,"parent_speed":80,"is_use_speed":1,"r":0,"joint":[75388,-79864,-74419,9970,59610,-4324],"pose":[143139,463839,83790,3141,-1483,1164],"parent_number":1,"enabled":true}
+{"num":3,"name":"FengMo","speed":80,"parent_speed":80,"is_use_speed":1,"r":0,"joint":[8234,-72012,-60060,-2915,37104,2173],"pose":[536520,82110,166289,3141,-1483,174],"parent_number":1,"enabled":true}
+{"num":4,"name":"qPCR","speed":80,"parent_speed":80,"is_use_speed":1,"r":0,"joint":[-34611,-86265,-69058,9868,60634,-4118],"pose":[386910,-293160,53790,3141,-1483,-754],"parent_number":1,"enabled":true}
